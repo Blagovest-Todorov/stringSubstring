@@ -1,0 +1,2 @@
+# stringSubstring
+how works substring
